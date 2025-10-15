@@ -6,3 +6,13 @@
 	object-fit:cover;
 	display:block;
 }
+.movieDetail{
+ position:obsolute;
+	font-display:large;
+	text-align:center;
+	top:50%;
+	width:100%;
+	font-size:1.6rem;
+	transform:translateY(-50%);
+	
+}
